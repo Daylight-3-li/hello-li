@@ -1,2 +1,3 @@
 # hello-li
 这是我第一个仓库
+I love 🍵,🐟,and 🌹.
